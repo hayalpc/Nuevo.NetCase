@@ -1,0 +1,6 @@
+/.vs
+/src/Nuevo.NetCase.TcmbKurlar/Properties
+/src/Nuevo.NetCase.TcmbKurlar/obj
+/src/Nuevo.NetCase.TcmbKurlar/bin
+/test/Nuevo.NetCase.XUnitTest/obj
+/test/Nuevo.NetCase.XUnitTest/bin
